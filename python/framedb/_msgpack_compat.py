@@ -1,10 +1,3 @@
-"""
-Copyright 2023 Man Group Operations Ltd.
-NO WARRANTY, EXPRESSED OR IMPLIED.
-
-This module implements a backwards compatible version of msgpack functions.
-"""
-
 import msgpack
 
 
