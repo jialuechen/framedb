@@ -1,3 +1,7 @@
+<div align=center>
+<img src="assets/framedb.jpg" width="25%" height="25%" loc>
+</div>
+
 # framedb
 Serverless DataFrame Database for Financial Time-Series Data
 
